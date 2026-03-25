@@ -48,8 +48,8 @@ onca-alfa/
 ## 🚀 Quick Start
 ### 1. Clone and Install
 ```bash
-git clone https://github.com/your-username/onca-alfa.git
-cd onca-alfa
+git clone (https://github.com/Reymiguelez/tiktokyoutubefrommeta)
+cd tiktokyoutubefrommeta
 pip install -r requirements.txt
 ```
 ### 2. Configure Environment Variables
